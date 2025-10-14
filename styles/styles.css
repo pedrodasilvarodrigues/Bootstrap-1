@@ -1,0 +1,11 @@
+.ImgCarrossel {
+  height: 450px;
+  object-fit: cover;
+}
+.ImgGrid1 {
+  width: 300px;
+  border-radius: 10px;
+}
+.BannerEmpresas {
+  width: auto;
+}
